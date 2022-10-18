@@ -1,1 +1,4 @@
 Anotação:
+
+Estarei realizando uma revisão das aulas de intrução ao Git e GitHub;
+Todas as anotações serão realizadas aqui.
